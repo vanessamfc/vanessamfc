@@ -24,7 +24,7 @@
  
 ### Contributor at:
 
-- [Agos](https://projectargos.tech
+- [Argos](https://projectargos.tech
 )
 
 
