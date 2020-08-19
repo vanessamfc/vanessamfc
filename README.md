@@ -20,7 +20,7 @@
  
  - [Binary and Decimal Converter](https://binaryconvertor.vanessamfc.site)
  
- - [Simple Weather](https://binaryconvertor.vanessamfc.site)
+ - [Simple Weather](https://simpleweather.vanessamfc.site)
 
 
 
