@@ -14,16 +14,16 @@
 
 ### Main Projects:
 
- - [My Movie List](https://mml.vanessamfc.site/) Repo: [Front-End](https://github.com/vanessamfc/MyMovieList), [Back-End](https://github.com/vanessamfc/mmlBack)
+ - [My Movie List] Repo: [Front-End](https://github.com/vanessamfc/MyMovieList), [Back-End](https://github.com/vanessamfc/mmlBack)
  
- - [Border Shape](https://bordershape.vanessamfc.site/) Repo: [Front-End](https://github.com/vanessamfc/border-shape)
+ - [Border Shape] Repo: [Front-End](https://github.com/vanessamfc/border-shape)
  
- - [Binary and Decimal Converter](https://binaryconvertor.vanessamfc.site) Repo: [Front-End](https://github.com/vanessamfc/binary-and-decimal-converter)
+ - [Binary and Decimal Converter] Repo: [Front-End](https://github.com/vanessamfc/binary-and-decimal-converter)
  
- - [Simple Weather](https://simpleweather.vanessamfc.site) Repo: [Front-End](https://github.com/vanessamfc/simple-weather)
+ - [Simple Weather] Repo: [Front-End](https://github.com/vanessamfc/simple-weather)
  
 ### Contributor at:
 
-- [Argos](https://projectargos.tech) Repo: [Front-End](https://github.com/regim-argos/Argos-Web)
+- [Argos] Repo: [Front-End](https://github.com/regim-argos/Argos-Web)
 
 
